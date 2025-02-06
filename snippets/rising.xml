@@ -7,6 +7,12 @@
           sync-j="4"
           revision="refs/heads/fifteen" />
 
+  <remote name="devices"
+          fetch="https://github.com/RisingOS-Revived-devices/"
+          sync-c="true"
+          sync-j="4"
+          revision="refs/heads/fifteen" />
+
   <remote name="gitlab"
           fetch="https://gitlab.com/"
           sync-c="true"
