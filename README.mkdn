@@ -82,6 +82,8 @@ TARGET_CORE_GMS := true/false
 #    Velvet
 TARGET_CORE_GMS_EXTRAS := true/false
 
+# prebuilt Google Dialer and Messages
+TARGET_INCLUDE_GOOGLE_DIALER := true/false
 # on the other hand builders can build customize packages by simply defining product packages
 # instead of defining TARGET_CORE_GMS_EXTRAS
 # PRODUCT_PACKAGES += \
